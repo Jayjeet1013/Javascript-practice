@@ -1,2 +1,2 @@
-# Javascript-thapa
-javascript project
+# Javascript
+javascript practice
